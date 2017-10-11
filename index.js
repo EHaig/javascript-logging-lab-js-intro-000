@@ -1,1 +1,1 @@
-console.error('Hi!'')
+console.error('Hi!');
